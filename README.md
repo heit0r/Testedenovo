@@ -1,2 +1,2 @@
 # Testedenovo
-Apenas mais um teste pra aprender git
+Apenas mais um teste pra aprender um pouquito de git.
