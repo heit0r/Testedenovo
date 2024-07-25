@@ -10,6 +10,6 @@ print('oi')
 
 print('Olar de nooooovo')
 
-print('Vamo neassaaa, puorraaammm')
+print('Vamo neassaaa, puorram')
 
 
