@@ -1,2 +1,2 @@
 ## Testedenovo
-Apenas mais um teste para aprender git de novooo.
+Just for recap the first steps in git.

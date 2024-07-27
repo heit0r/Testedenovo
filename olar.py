@@ -1,9 +1,9 @@
-teste = 'olar'
-print(teste)
+test = 'olar'
+print(test)
 
 print('Olar')
 
-for i in teste: # imprime
+for i in test: # silly print
     print(i)
 
-print('Alteração feita pela main')
+print('Minor changes by main branch.')
